@@ -123,3 +123,4 @@
 /Users/vlatkospirovski/RiderProjects/TestApi/TestApi/obj/Debug/net8.0/TestApi.pdb
 /Users/vlatkospirovski/RiderProjects/TestApi/TestApi/obj/Debug/net8.0/TestApi.genruntimeconfig.cache
 /Users/vlatkospirovski/RiderProjects/TestApi/TestApi/obj/Debug/net8.0/ref/TestApi.dll
+/Users/vlatkospirovski/RiderProjects/TestApi/TestApi/obj/Debug/net8.0/TestApi.sourcelink.json
