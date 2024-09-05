@@ -44,7 +44,7 @@ namespace TestApi.Controllers
             // Validate the WeatherForecastId
             if (!ModelState.IsValid || location.WeatherForecastId <= 0)
             {
-                return BadRequest("Invalid data.");
+                return BadRequest("Invalid data presented.");
             }
 
             var weatherForecast = await _context.WeatherForecasts.FindAsync(location.WeatherForecastId);
